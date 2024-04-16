@@ -1,0 +1,2 @@
+pertemuan2.segitiga
+Luas_Segitiga.Luas_Segitiga
